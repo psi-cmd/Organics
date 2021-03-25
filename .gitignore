@@ -1,0 +1,8 @@
+.sass-cache
+.DS_Store
+env/
+venv/
+venv-mkdocs/
+site/
+.env/
+.vscode/
