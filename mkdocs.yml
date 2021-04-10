@@ -1,1 +1,38 @@
-site_name: My Docs
+site_name: Organics - Personal Apprehension
+site_description: Viewing organic chemistry with electric property.
+site_author: psi-cmd
+
+theme:
+  name: 'material'
+  language: 'zh'
+  # icon:
+  #   logo: icon
+  
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - markdown.extensions.def_list
+
+nav: 
+    - 前言: preface.md
+    - 从电性到官能团: 
+        - 何为正？何为负？: Positive-Negative.md
+        # - 典型正负模型: 
+        # - 正负之间：共存与斗争: 
+        # - 正负的产生: 
+        # - 催化与正负增强: 
+        # - 中立-非正非负: 
+    # - 电性概念解决问题: 
+    - 附录: 
+        - 浅谈命名: nomenclature.md
+        - 信息获取: info_collection.md
+        # - 有机信息的计算机表达方案: 
+        - 不在本体系内的有机知识: not_included.md
+        - 参考书目: reference.md
+        - 重要中英文对照表: glossary.md
+
+

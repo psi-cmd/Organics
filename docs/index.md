@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# 基于电性分析的有机讲义
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 对自己（编写者）的话
 
-## Commands
+1. 不要追求立即细化，先将主线思路完成，没有主线思路时把素材堆到页面里
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+2. 允许出现一些不完善，不完备，不完美的表述，以后再修改
 
-## Project layout
+3. 不要单打独斗，在适当的时候请求他人来完善，提出意见
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+4. 承认自己的认知的局限性，明确本教程的意义：从更统一的角度理解初等有机，而不是某一处具体的反应，机理的正确无误
+
+## 规范 tag 
+
+!!! note "

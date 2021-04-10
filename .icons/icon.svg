@@ -1,0 +1,16 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern id="pattern-0-1" patternTransform="matrix(-0.089223, 0, 0, 0.598707, 214.12561, 245.339554)" xlink:href="#pattern-0"></pattern>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"></rect>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 214.574005, 244.595001)" xlink:href="#pattern-0"></pattern>
+  </defs>
+  <circle style="fill: none; stroke: rgb(0, 0, 0);" cx="227.074" cy="257.0" r="76.25"></circle>
+  <path style="stroke: rgb(0, 0, 0); fill: none;" d="M 226.787 333.086 C 240.356 333.086 252.894 325.847 259.678 314.096 C 274.297 288.777 256.024 257.127 226.787 257.127 C 197.329 257.199 178.84 225.354 193.507 199.807 C 200.399 187.804 213.234 180.458 227.074 180.595"></path>
+  <path stroke="#000000" stroke-width="1" d="M 217.258 297.608 C 217.258 304.817 225.062 309.326 231.308 305.72 C 234.204 304.047 235.991 300.953 235.991 297.608 C 235.991 290.397 228.185 285.891 221.941 289.497 C 219.043 291.169 217.258 294.261 217.258 297.608 Z" style="" fill="transparent"></path>
+  <path stroke="transparent" d="M 221.451 296.912 L 231.712 296.912 L 231.712 298.216 L 221.451 298.216 Z" style="" fill="#000000"></path>
+  <path stroke="transparent" d="M 227.232 292.432 L 227.232 302.696 L 225.928 302.696 L 225.928 292.432 Z" style="" fill="#000000"></path>
+  <path stroke="#000000" stroke-width="1" d="M 216.937 219.827 C 216.937 227.139 224.852 231.709 231.184 228.053 C 234.123 226.356 235.933 223.221 235.933 219.827 C 235.933 212.515 228.018 207.946 221.686 211.601 C 218.747 213.298 216.937 216.434 216.937 219.827 Z" style="" fill="transparent"></path>
+  <path stroke="transparent" d="M 221.187 219.122 L 231.594 219.122 L 231.594 220.445 L 221.187 220.445 Z" style="" fill="#000000"></path>
+</svg>
