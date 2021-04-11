@@ -5,10 +5,15 @@ site_author: psi-cmd
 theme:
   name: 'material'
   language: 'zh'
+  theme:
+  icon:
+    admonition:
+
   # icon:
   #   logo: icon
   
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - codehilite
@@ -16,6 +21,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - markdown.extensions.def_list
+
+extra_css:
+  - stylesheets/extra.css
 
 nav: 
     - 前言: preface.md

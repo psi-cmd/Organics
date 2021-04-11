@@ -1,0 +1,35 @@
+:root {
+    --md-admonition-icon--reaction: url('reaction.svg')
+  }
+  .md-typeset .admonition.reaction,
+  .md-typeset details.reaction {
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .reaction > .admonition-title,
+  .md-typeset .reaction > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .reaction > .admonition-title::before,
+  .md-typeset .reaction > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: url('reaction.svg');
+            mask-image: var(--md-admonition-icon--reaction);
+  }
+
+:root 
+    .md-typeset .admonition.mechanism,
+    .md-typeset details.mechanism {
+    border-color: rgb(43, 155, 70);
+    }
+    .md-typeset .mechanism > .admonition-title,
+    .md-typeset .mechanism > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+    border-color: rgb(43, 155, 70);
+    }
+    .md-typeset .mechanism > .admonition-title::before,
+    .md-typeset .mechanism > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: url('mechanism.svg');
+            mask-image: var(--md-admonition-icon--mechanism);
+    }
