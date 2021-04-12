@@ -39,30 +39,30 @@
 ## 网站
 ### 主动分享类
 
-[化学空间](https://cn.chem-station.com/) —— 页面很久没有修缮了，但确实还在更新
+1. [化学空间](https://cn.chem-station.com/) —— 页面很久没有修缮了，但确实还在更新
 
 
 
 ### 被动查阅类
 
-[上海有机所数据库](http://www.organchem.csdb.cn/) —— 国内主要化学数据库，包括有机谱学数据库，毒性数据库（MSDS）等，免费注册
+1. [上海有机所数据库](http://www.organchem.csdb.cn/) —— 国内主要化学数据库，包括有机谱学数据库，毒性数据库（MSDS）等，免费注册
 
-[iBonD](http://ibond.nankai.edu.cn/) —— 有机物 pKa 数据查询（清华 & 南开）
+2. [iBonD](http://ibond.nankai.edu.cn/) —— 有机物 pKa 数据查询（清华 & 南开）
 
-[SpectraBase](https://spectrabase.com/) —— WILEY 谱学数据库
+3. [SpectraBase](https://spectrabase.com/) —— WILEY 谱学数据库
 
-乔治梅森大学 slayden 主页上[对于谱学信息的汇总](https://mason.gmu.edu/~sslayden/Lab/spec-db.htm)，包括：
+4. 乔治梅森大学 slayden 主页上[对于谱学信息的汇总](https://mason.gmu.edu/~sslayden/Lab/spec-db.htm)，包括：
 
 - [NIST 数据库](http://webbook.nist.gov/chemistry/) 
 - [SDBS 数据库](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi)，由日本 AIST 创建
 - [NMRShiftDB](http://nmrshiftdb.nmr.uni-koeln.de/nmrshiftdb/media-type/html/user/anon/page/default.psml/js_pane/P-Search)，德国科隆大学 NMR 数据库，多为碳谱
 - 一些其他数据来源（可能需要注册）
 
-[Organic Chemistry Data](https://organicchemistrydata.org/) —— 有机信息合集，巨全，就是不知道为什么没有任何中文文章提及
+5. [Organic Chemistry Data](https://organicchemistrydata.org/) —— 有机信息合集，巨全，就是不知道为什么没有任何中文文章提及
 
-<https://organicchemistrydata.org/hansreich/> —— 这是上面网站里一个有价值的合集，由 Hans J. Reich 教授整理，按需查阅
+6. <https://organicchemistrydata.org/hansreich/> —— 这是上面网站里一个有价值的合集，由 Hans J. Reich 教授整理，按需查阅
 
-[NMRDB](https://www.nmrdb.org/) —— NMR 预测网站
+7. [NMRDB](https://www.nmrdb.org/) —— NMR 预测网站
 
 ### 练习类
 
