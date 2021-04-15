@@ -21,26 +21,37 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - markdown.extensions.def_list
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 nav: 
     - 前言: preface.md
+    - 前置概念: 
+        - 电负性: Concepts/electronegativity.md
+        - 经典价键理论: Concepts/bonding_theory.md
+        - 原子轨道与分子轨道: Concepts/atomic_molecular_orbits.md
     - 从电性到官能团: 
         - 何为正？何为负？: Positive-Negative.md
-        # - 典型正负模型: 
+        - 典型正负模型: Charged_Models.md
         # - 正负之间：共存与斗争: 
         # - 正负的产生: 
         # - 催化与正负增强: 
         # - 中立-非正非负: 
     # - 电性概念解决问题: 
     - 附录: 
-        - 浅谈命名: nomenclature.md
-        - 信息获取: info_collection.md
+        - 浅谈命名: Appendex/nomenclature.md
+        - 信息获取: Appendex/info_collection.md
         # - 有机信息的计算机表达方案: 
-        - 不在本体系内的有机知识: not_included.md
-        - 参考书目: reference.md
-        - 重要中英文对照表: glossary.md
+        - 不在本体系内的有机知识: Appendex/not_included.md
+        - 参考书目: Appendex/reference.md
+        - 重要中英文对照表: Appendex/glossary.md
 
 

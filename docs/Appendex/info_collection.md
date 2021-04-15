@@ -8,7 +8,7 @@
 
 **基础有机阶段**
 
-1. 《基础有机化学（第三版）》 邢其毅及《基础有机化学（第四版）》 
+1. 《基础有机化学（第三版）》 及《基础有机化学（第四版）》 (邢其毅)
 :   中文基础有机集大成者
 2. *Organic Chemistry* (Jonathan Clayden, Nick Greeves, Stuart Warren) 
 :   外文基础有机集大成者
