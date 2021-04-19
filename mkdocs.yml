@@ -35,6 +35,7 @@ extra_javascript:
 nav: 
     - 前言: preface.md
     - 前置概念: 
+        - 酸碱理论: Concepts/acid_base_theory.md
         - 电负性: Concepts/electronegativity.md
         - 经典价键理论: Concepts/bonding_theory.md
         - 原子轨道与分子轨道: Concepts/atomic_molecular_orbits.md
@@ -47,6 +48,7 @@ nav:
         # - 中立-非正非负: 
     # - 电性概念解决问题: 
     - 附录: 
+        - 键线式表示法: Appendex/skeletal_formula.md
         - 浅谈命名: Appendex/nomenclature.md
         - 信息获取: Appendex/info_collection.md
         # - 有机信息的计算机表达方案: 
