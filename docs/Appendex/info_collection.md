@@ -53,10 +53,10 @@
 
 4. 乔治梅森大学 slayden 主页上[对于谱学信息的汇总](https://mason.gmu.edu/~sslayden/Lab/spec-db.htm)，包括：
 
-- [NIST 数据库](http://webbook.nist.gov/chemistry/) 
-- [SDBS 数据库](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi)，由日本 AIST 创建
-- [NMRShiftDB](http://nmrshiftdb.nmr.uni-koeln.de/nmrshiftdb/media-type/html/user/anon/page/default.psml/js_pane/P-Search)，德国科隆大学 NMR 数据库，多为碳谱
-- 一些其他数据来源（可能需要注册）
+    - [NIST 数据库](http://webbook.nist.gov/chemistry/) 
+    - [SDBS 数据库](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi)，由日本 AIST 创建
+    - [NMRShiftDB](http://nmrshiftdb.nmr.uni-koeln.de/nmrshiftdb/media-type/html/user/anon/page/default.psml/js_pane/P-Search)，德国科隆大学 NMR 数据库，多为碳谱
+    - 一些其他数据来源（可能需要注册）
 
 5. [Organic Chemistry Data](https://organicchemistrydata.org/) —— 有机信息合集，巨全，就是不知道为什么没有任何中文文章提及
 
